@@ -53,6 +53,13 @@ Here is the [Link](https://www.kaggle.com/navoneel/brain-mri-images-for-brain-tu
 The data folder consists of Yes and No folders which has MRI images that are
 labeled as Tumor and No-Tumor respectively.
 
+### Deployment
+
+<p>
+<img src="./img1.png" alt="">
+<img src="./img2.png" alt="">
+</p>
+
 ### Requirements
 
 1. tensorflow==2.2.1
