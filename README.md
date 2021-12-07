@@ -52,3 +52,11 @@ metrics = ['accuracy'])
 Here is the [Link](https://www.kaggle.com/navoneel/brain-mri-images-for-brain-tumor-detection/tasks) for the dataset.
 The data folder consists of Yes and No folders which has MRI images that are
 labeled as Tumor and No-Tumor respectively.
+
+### Requirements
+
+1. tensorflow==2.2.1
+2. numpy==1.18.5
+3. opencv-python==4.2.0.34
+4. pandas==1.0.4
+5. scikit-learn==0.23.1
