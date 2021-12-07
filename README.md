@@ -32,7 +32,7 @@ optimizer = 'adam',
 metrics = ['accuracy'])
 ```
 
-<img src="./nn.png" alt="">
+<img src="./nn.png" alt="Tool Used: NN SVG">
 
 | Layer (type)                    | Output Shape         | Param   |
 | ------------------------------- | -------------------- | ------- |
