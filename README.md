@@ -28,6 +28,8 @@ optimizer = 'adam',
 metrics = ['accuracy'])
 ```
 
+<img src="./nn.png" alt="">
+
 | Layer (type)                    | Output Shape         | Param   |
 | ------------------------------- | -------------------- | ------- |
 | conv2d (Conv2D)                 | (None, 148, 148, 64) | 640     |
@@ -40,5 +42,3 @@ metrics = ['accuracy'])
 | dense (Dense)                   | (None, 64)           | 5308480 |
 | dense_1 (Dense)                 | (None, 1)            | 65      |
 | activation_2 (Activation)       | (None, 1)            | 0       |
-
-<img src="./nn.svg" alt="Architecture">
