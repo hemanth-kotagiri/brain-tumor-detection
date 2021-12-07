@@ -4,6 +4,10 @@ A predictive Deep Learning Model trained on MRI images of Brain for Tumor Detect
 This application aims to provide prior diagnosis for the existence of a tumor
 in a given brain MRI image.
 
+| Tumor Image                                    | No Tumor Image                                |
+| ---------------------------------------------- | --------------------------------------------- |
+| <img src="./Data/yes/Y2.jpg" width=200 alt=""> | <img src="./Data/no/N3.jpg" width=200 alt=""> |
+
 ### Model Architecture
 
 ```py
