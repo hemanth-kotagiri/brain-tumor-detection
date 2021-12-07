@@ -46,3 +46,9 @@ metrics = ['accuracy'])
 | dense (Dense)                   | (None, 64)           | 5308480 |
 | dense_1 (Dense)                 | (None, 1)            | 65      |
 | activation_2 (Activation)       | (None, 1)            | 0       |
+
+### Dataset
+
+Here is the [Link](https://www.kaggle.com/navoneel/brain-mri-images-for-brain-tumor-detection/tasks) for the dataset.
+The data folder consists of Yes and No folders which has MRI images that are
+labeled as Tumor and No-Tumor respectively.
